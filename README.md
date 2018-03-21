@@ -1,1 +1,1 @@
-# BinaryTree
+# Maze Game
